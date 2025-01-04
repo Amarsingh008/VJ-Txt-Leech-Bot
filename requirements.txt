@@ -14,12 +14,12 @@ soupsieve==2.4.1
 TgCrypto==1.2.5
 urllib3==2.0.3
 websockets==11.0.3
-yt-dlp==2023.6.22
+yt-dlp==2024.12.23
 motor
 aiohttp
 aiofiles
 pytz
-ffmpeg
+ffmpeg==7.1.0
 umongo==3.1.0
 speedtest-cli
 Flask==1.1.2
